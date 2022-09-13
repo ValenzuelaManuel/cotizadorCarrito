@@ -1,0 +1,6 @@
+[
+    {"id": 1, "nombre": "Anillo", "precio": 18000, "imagen":"./anillo.jpg"},
+    {"id": 2, "nombre": "Aros", "precio": 14000, "imagen": "./aros.jpg"},
+    {"id": 3, "nombre": "Collar", "precio": 17000, "imagen": "./collar.jpg"},
+    {"id": 4, "nombre": "Pulsera", "precio": 10000, "imagen": "./pulsera.jpg"}
+]
